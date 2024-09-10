@@ -157,7 +157,8 @@ J 0 <br>
 Path found: ['A', 'F', 'G', 'I', 'J']
 
 ## PROGRAM:
-```#define fuction to return neighbor and its distance
+```
+#define fuction to return neighbor and its distance
 #from the passed node
 def get_neighbors(v):
     if v in Graph_nodes:
